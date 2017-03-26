@@ -1,0 +1,26 @@
+{
+  "name": "@roastedfrost/redux-datastore",
+  "version": "0.0.1",
+  "description": "redux datastore",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roastedfrost/redux-datastore.git"
+  },
+  "author": {
+    "name" : "Yaroslav Matveev",
+    "email" : "roastedfrost@gmail.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roastedfrost/redux-datastore/issues"
+  },
+  "homepage": "https://github.com/roastedfrost/redux-datastore#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
