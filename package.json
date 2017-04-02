@@ -4,7 +4,8 @@
   "description": "redux datastore",
   "main": "lib/index.js",
   "scripts": {
-    "test": "./node_modules/karma/bin/karma start"
+    "test": "./node_modules/karma/bin/karma start --singleRun",
+    "test-watch": "./node_modules/karma/bin/karma start"
   },
   "repository": {
     "type": "git",
