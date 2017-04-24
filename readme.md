@@ -4,4 +4,9 @@ Simple library to deal with common operations - pagination, sorting, filtering.
 
 - [x] basic implementation
 - [x] unit tests
-- [ ] demo
+- [x] demo
+
+
+`npm run demo`
+
+![alt demo](https://cloud.githubusercontent.com/assets/18138928/25359041/48e6b4c2-294c-11e7-85fa-d61945dc9de4.gif)
